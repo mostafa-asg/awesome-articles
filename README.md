@@ -17,3 +17,8 @@
     * Exactly-once
       * Distributed snapshot/state checkpointing
       * At-least-once event delivery plus message deduplication
+* https://crate.io/a/analyzing-docker-container-performance-native-tools/
+  * Tags:
+    * Docker Container
+    * Native monitoring tools
+    	
