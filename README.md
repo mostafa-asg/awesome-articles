@@ -21,4 +21,9 @@
   * Tags:
     * Docker Container
     * Native monitoring tools
+* https://www.rittmanmead.com/blog/2017/11/taking-ksql-for-a-spin-using-real-time-device-data/
+  * Tags:
+    * KSQL
+    * Kafka
+    * Real time stream processing
     	
