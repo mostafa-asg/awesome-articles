@@ -26,4 +26,10 @@
     * KSQL
     * Kafka
     * Real time stream processing
+* https://blog.cloudflare.com/go-dont-collect-my-garbage/
+  Tags:
+    * Go
+    * Golang
+    * Performance
+    * GC
     	
