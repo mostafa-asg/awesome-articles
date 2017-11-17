@@ -28,8 +28,11 @@
     * Real time stream processing
 * https://blog.cloudflare.com/go-dont-collect-my-garbage/
   Tags:
-    * Go
-    * Golang
-    * Performance
+    * GO
+    * Performance
     * GC
-    	
+    * Number of goroutine
+*  https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully
+  * Tags:
+    * GO
+    * Error handling
