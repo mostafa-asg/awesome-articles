@@ -27,12 +27,17 @@
     * Kafka
     * Real time stream processing
 * https://blog.cloudflare.com/go-dont-collect-my-garbage/
-  Tags:
+  * Tags:
     * GO
     * Performance
     * GC
     * Number of goroutine
-*  https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully
-  * Tags:
-    * GO
-    * Error handling
+* https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully
+   * Tags:
+     * GO
+     * Error handling
+* https://www.calhoun.io/using-functional-options-instead-of-method-chaining-in-go/
+  * Tags:
+    * GO
+    * Closures
+    * Functional options    
