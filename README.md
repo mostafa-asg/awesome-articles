@@ -41,3 +41,8 @@
     * GO
     * Closures
     * Functional options    
+* https://www.opsdash.com/blog/job-queues-in-go.html
+  * Tags:
+    * GO
+    * Chanele
+    * Goroutine
