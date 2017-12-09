@@ -51,3 +51,6 @@
     * Apache Pulsar
     * Apache Kafka
     * Comparison
+* https://dzone.com/articles/choosing-the-right-gc
+  * Tags:
+    * Java GC
