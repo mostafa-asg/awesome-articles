@@ -54,3 +54,9 @@
 * https://dzone.com/articles/choosing-the-right-gc
   * Tags:
     * Java GC
+* https://www.ibm.com/developerworks/linux/library/j-zerocopy/
+  * Tags:
+    * Kernel context
+    * Application context
+    * Performance
+    * Zero copy
