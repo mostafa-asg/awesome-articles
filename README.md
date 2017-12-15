@@ -61,3 +61,9 @@
     * Performance
     * Zero copy
     * Java
+* https://blog.gopheracademy.com/advent-2017/kubernetes-ready-service/
+  * Tags:
+    * Go
+    * Kubernetes
+    * Http Server
+    * Makefile
