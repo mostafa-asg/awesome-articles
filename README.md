@@ -67,3 +67,10 @@
     * Kubernetes
     * Http Server
     * Makefile
+* https://engineering.linkedin.com/blog/2017/12/venice-hybrid--doing-lambda-better
+  * Tags:
+    * Linkedin
+    * Venice hybrid
+    * Lambda architecture
+    * Batch processing
+    * Realtime processing
