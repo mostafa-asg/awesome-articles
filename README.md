@@ -74,3 +74,9 @@
     * Lambda architecture
     * Batch processing
     * Realtime processing
+* https://www.slideshare.net/MostafaAsgari1/kafka-reliable-data-delivery
+  * Tags:
+    * Kafka
+    * Reliable
+    * Data delivery
+    * Guarantees
