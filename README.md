@@ -80,3 +80,7 @@
     * Reliable
     * Data delivery
     * Guarantees
+* https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
+  * Tags:
+    * L4 load balancing
+    * L7 load balancing
