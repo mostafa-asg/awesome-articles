@@ -84,3 +84,10 @@
   * Tags:
     * L4 load balancing
     * L7 load balancing
+* https://mapr.com/blog/fast-data-processing-pipeline-predicting-flight-delays-using-apache-apis-pt-1/
+* https://mapr.com/blog/fast-data-processing-pipeline-predicting-flight-delays-using-apache-apis-pt-2/
+  * Tags:
+    * Kafka
+    * Spark
+    * Machine Learning
+    * Prediction
