@@ -91,3 +91,7 @@
     * Spark
     * Machine Learning
     * Prediction
+* https://data-artisans.com/blog/how-to-size-your-apache-flink-cluster-general-guidelines
+  * Tags:
+    * Apache Flink
+    * Calculate cluster size
