@@ -95,3 +95,8 @@
   * Tags:
     * Apache Flink
     * Calculate cluster size
+* https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/
+  * Tags:
+    * Performance Tuning
+    * Kafka
+    * Topic partitions    
