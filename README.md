@@ -100,3 +100,9 @@
     * Performance Tuning
     * Kafka
     * Topic partitions    
+* https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd/
+  * Tags:
+    * Docker
+    * Dockerfile
+    * Entrypoint
+    * CMD
