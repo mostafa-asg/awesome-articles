@@ -106,3 +106,8 @@
     * Dockerfile
     * Entrypoint
     * CMD
+* https://engineering.linkedin.com/blog/2018/02/dynamometer--scale-testing-hdfs-on-minimal-hardware-with-maximum
+  * Tags:
+    * Performance Test
+    * Hadoop Cluster
+    * Simulate real physical data nodes
