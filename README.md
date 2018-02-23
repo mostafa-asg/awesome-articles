@@ -111,3 +111,6 @@
     * Performance Test
     * Hadoop Cluster
     * Simulate real physical data nodes
+* https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-i-o-redirection
+  * Tags:
+    * Linux basic
