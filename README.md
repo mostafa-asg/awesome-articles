@@ -114,3 +114,10 @@
 * https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-i-o-redirection
   * Tags:
     * Linux basic
+* https://blog.softwaremill.com/synchronous-or-asynchronous-and-why-wrestle-with-wrappers-2c5667eb7acf
+  * Tags:
+    * Async
+    * Non-blocking
+    * Future
+    * CompletableFuture
+    * Coroutine
