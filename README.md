@@ -121,3 +121,9 @@
     * Future
     * CompletableFuture
     * Coroutine
+* https://blog.codecentric.de/en/2016/02/phantom-types-scala/
+  * Tags:
+    * Scala
+    * Phantom types
+    * Type constraints
+    * =:=
