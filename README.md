@@ -127,3 +127,7 @@
     * Phantom types
     * Type constraints
     * =:=
+* https://www.youtube.com/watch?v=Nm4OIhjjA2o&t=1325s [Video]
+  * Tags:
+    * Scala
+    * Typeclass Induction
