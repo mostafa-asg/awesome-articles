@@ -135,3 +135,9 @@
   * Tags:
     * Scala
     * Monad
+* https://typelevel.org/blog/2017/05/02/io-monad-for-cats.html
+  * Tags:
+    * Scala
+    * cats-effect
+    * Side effect
+    * Purly functional
