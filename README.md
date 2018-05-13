@@ -131,3 +131,7 @@
   * Tags:
     * Scala
     * Typeclass Induction
+* https://functional.works-hub.com/learn/demystifying-the-monad-in-scala-cf414
+  * Tags:
+    * Scala
+    * Monad
