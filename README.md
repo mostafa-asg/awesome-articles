@@ -141,3 +141,10 @@
     * cats-effect
     * Side effect
     * Purly functional
+* http://spray.io/blog/2012-12-13-the-magnet-pattern/
+  * Tags:
+    * Scala
+    * Magnet Pattern
+    * Method Overloading
+    * Type erasure
+    * Type classes
