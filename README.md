@@ -148,3 +148,8 @@
     * Method Overloading
     * Type erasure
     * Type classes
+* https://www.signifytechnology.com/blog/2018/06/demistifying-the-monad-in-scala-part-2-a-category-theory-approach-by-sinisa-louc
+  * Tags:
+    * Scala
+    * Functional Programming
+    * Category theory
