@@ -1,5 +1,7 @@
 # awsome-articles
 
+### Total Articles : 30
+
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
     * Immutable event source
@@ -153,3 +155,8 @@
     * Scala
     * Functional Programming
     * Category theory
+* https://blog.scalac.io/exploring-tagless-final.html
+  * Tgas:
+    * Scala
+    * Tagless final
+    * Slick
