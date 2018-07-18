@@ -160,3 +160,9 @@
     * Scala
     * Tagless final
     * Slick
+* https://www.signifytechnology.com/blog/2018/07/scalafp-firsthand-with-scala-cats-monads-number-1-by-harmeet-singh
+  * Tags:
+    * Scala Cats
+    * Monad
+    * Id
+    * Eval
