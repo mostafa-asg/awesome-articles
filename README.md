@@ -166,3 +166,9 @@
     * Monad
     * Id
     * Eval
+* https://softwaremill.com/beautiful-folds-in-scala/
+  * Tags:
+    * Scala
+    * Fold
+    * Monoid
+    * Cats
