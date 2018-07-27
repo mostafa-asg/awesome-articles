@@ -172,3 +172,9 @@
     * Fold
     * Monoid
     * Cats
+* https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009
+  * Tags:
+    * Unit tests
+    * Integration tests
+    * End to End tests
+    * Cost, speed, confidence
