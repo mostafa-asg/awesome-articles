@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 30
+### Total Articles : 33
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -178,3 +178,7 @@
     * Integration tests
     * End to End tests
     * Cost, speed, confidence
+* https://www.oreilly.com/ideas/modules-vs-microservices    
+  * Tags:
+    * Microservices
+    * Modular monolith
