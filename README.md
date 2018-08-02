@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 33
+### Total Articles : 34
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -182,3 +182,7 @@
   * Tags:
     * Microservices
     * Modular monolith
+* https://typelevel.org/blog/2016/08/21/hkts-moving-forward.html
+  * Tags:
+    * Higher-Kinded types
+    * Type constructor
