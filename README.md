@@ -186,3 +186,7 @@
   * Tags:
     * Higher-Kinded types
     * Type constructor
+* https://www.missingfaktor.me/writing/2018/08/12/composable-table-updates-in-slick/
+  * Tags:
+    * Slick
+    * Scala
