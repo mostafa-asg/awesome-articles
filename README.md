@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 36
+### Total Articles : 37
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -194,3 +194,8 @@
   * Tags:
     * Scala
     * Monad Transformers
+* https://knes1.github.io/blog/2015/2015-10-19-streaming-mysql-results-using-java8-streams-and-spring-data.html
+  * Tags:
+    * Spring Data
+    * Performance
+    * Streaming vs Paging
