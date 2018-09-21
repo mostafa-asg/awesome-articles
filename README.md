@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 37
+### Total Articles : 38
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -199,3 +199,8 @@
     * Spring Data
     * Performance
     * Streaming vs Paging
+* https://heapanalytics.com/blog/engineering/missing-scala-class-noclassdeffounderror
+  * Tags:
+    * Debuging
+    * BTrace
+    * ClassLoader
