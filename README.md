@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 38
+### Total Articles : 39
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -204,3 +204,6 @@
     * Debuging
     * BTrace
     * ClassLoader
+* http://www.geekabyte.io/2018/09/easing-into-cats-and-case-for-category.html
+  * Tags:
+    * Cats Practical Example
