@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 39
+### Total Articles : 40
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -207,3 +207,6 @@
 * http://www.geekabyte.io/2018/09/easing-into-cats-and-case-for-category.html
   * Tags:
     * Cats Practical Example
+* https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server
+  * Tags:
+    * SSH Configuration
