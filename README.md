@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 40
+### Total Articles : 41
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -210,3 +210,6 @@
 * https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server
   * Tags:
     * SSH Configuration
+* http://daniberg.com/2018/10/02/monads-for-fp-in-scala.html
+  * Tags:
+    * Custom monad example
