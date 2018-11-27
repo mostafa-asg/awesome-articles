@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 41
+### Total Articles : 42
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -213,3 +213,8 @@
 * http://daniberg.com/2018/10/02/monads-for-fp-in-scala.html
   * Tags:
     * Custom monad example
+* https://medium.com/@guillaumejacquart/experience-on-working-with-asp-net-core-and-nodejs-5e6c6351fc1f
+  * Tags:
+    * Performance
+    * Node.js
+    * Asp.net core
