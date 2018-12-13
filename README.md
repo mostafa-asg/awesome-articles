@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 43
+### Total Articles : 44
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -221,3 +221,6 @@
 * https://www.valentinog.com/blog/react-webpack-babel/
   * Tags:
     * How to set up React, webpack 4, and Babel 7
+* https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8
+  * Tags:
+    * Consistent hash
