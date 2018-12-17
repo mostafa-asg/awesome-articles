@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 44
+### Total Articles : 45
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -224,3 +224,7 @@
 * https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8
   * Tags:
     * Consistent hash
+* https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/
+  * Tags:
+    * 2 phase commit
+    * Saga pattern
