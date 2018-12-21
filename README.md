@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 45
+### Total Articles : 46
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -228,3 +228,7 @@
   * Tags:
     * 2 phase commit
     * Saga pattern
+* https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
+  * Tags:
+    * utility-first CSS
+    * tailwindcss
