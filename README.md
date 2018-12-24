@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 46
+### Total Articles : 47
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -232,3 +232,6 @@
   * Tags:
     * utility-first CSS
     * tailwindcss
+* https://streaml.io/blog/apache-pulsar-architecture-designing-for-streaming-performance-and-scalability
+  * Tags:
+    * Pulsar-Kafka-Architecture
