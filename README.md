@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 47
+### Total Articles : 48
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -235,3 +235,6 @@
 * https://streaml.io/blog/apache-pulsar-architecture-designing-for-streaming-performance-and-scalability
   * Tags:
     * Pulsar-Kafka-Architecture
+* https://www.digitalocean.com/community/tutorials/an-introduction-to-load-testing
+  * Tags:
+    * Performance Test
