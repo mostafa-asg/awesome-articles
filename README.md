@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 48
+### Total Articles : 49
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -238,3 +238,6 @@
 * https://www.digitalocean.com/community/tutorials/an-introduction-to-load-testing
   * Tags:
     * Performance Test
+* https://medium.com/@jerolba/persisting-fast-in-database-jdbc-76912ec2ef42
+  * Tags:
+    * JDBC Perofrmance tips
