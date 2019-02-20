@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 49
+### Total Articles : 50
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -241,3 +241,9 @@
 * https://medium.com/@jerolba/persisting-fast-in-database-jdbc-76912ec2ef42
   * Tags:
     * JDBC Perofrmance tips
+* https://pythonspeed.com/articles/faster-db-tests/
+  * Tags:
+    * Performance
+    * docker
+    * In memory
+    * fsync
