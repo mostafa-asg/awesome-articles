@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 50
+### Total Articles : 51
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -247,3 +247,7 @@
     * docker
     * In memory
     * fsync
+* https://blog.softwaremill.com/small-fast-docker-images-using-graalvms-native-image-99c0bc92e70b
+  * Tags:
+    * scala/java native
+    * graalvm
