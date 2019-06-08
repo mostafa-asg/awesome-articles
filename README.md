@@ -251,3 +251,6 @@
   * Tags:
     * scala/java native
     * graalvm
+* https://arrow-kt.io/docs/patterns/monads/
+  * Tags:
+    * Monads explained in Kotlin
