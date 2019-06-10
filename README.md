@@ -258,3 +258,6 @@
   * Tags:
     * Scala
     * Functional Programming
+* https://medium.com/@olxc/switching-from-oop-to-functional-programming-4187698d4d3
+  * Tags:
+    * Scala/Haskell
