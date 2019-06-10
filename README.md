@@ -254,3 +254,7 @@
 * https://arrow-kt.io/docs/patterns/monads/
   * Tags:
     * Monads explained in Kotlin
+* https://medium.com/@olxc/the-evolution-of-a-scala-programmer-1b7a709fb71f
+  * Tags:
+    * Scala
+    * Functional Programming
