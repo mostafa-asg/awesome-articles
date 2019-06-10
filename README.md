@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 52
+### Total Articles : 54
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
