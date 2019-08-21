@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 54
+### Total Articles : 55
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -261,3 +261,6 @@
 * https://medium.com/@olxc/switching-from-oop-to-functional-programming-4187698d4d3
   * Tags:
     * Scala/Haskell
+* https://niels.nu/blog/2016/cassandra-resultset-paging.html
+  * Tags:
+    * Cassandra result set paging
