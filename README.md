@@ -264,3 +264,8 @@
 * https://niels.nu/blog/2016/cassandra-resultset-paging.html
   * Tags:
     * Cassandra result set paging
+* https://blog.softwaremill.com/from-transactional-to-type-safe-reasonable-transactions-a5019906245e
+  * Tags:
+    * scala
+    * doobie
+    * transaction
