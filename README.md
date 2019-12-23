@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 57
+### Total Articles : 58
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -269,3 +269,6 @@
     * scala
     * doobie
     * transaction
+* https://www.youtube.com/watch?v=HubezKbFL7E [Video]
+  * Database Index
+  * Performance
