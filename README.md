@@ -1,6 +1,6 @@
 # awsome-articles
 
-### Total Articles : 58
+### Total Articles : 59
 
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
@@ -272,3 +272,7 @@
 * https://www.youtube.com/watch?v=HubezKbFL7E [Video]
   * Database Index
   * Performance
+* https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c
+  * Distributed Unique ID with PostgreSQL
+  * Sharding
+  * Scalable
