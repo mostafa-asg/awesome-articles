@@ -1,7 +1,11 @@
 # awsome-articles
 
-### Total Articles : 59
-
+### Total Articles : 60
+* https://www.datadoghq.com/blog/elasticsearch-performance-scaling-problems/
+  * Tags:
+    * elasticsearch
+    * performance
+    * problems
 * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza
   * Tags:
     * Immutable event source
