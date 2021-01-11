@@ -1,6 +1,12 @@
 # awsome-articles
 
-### Total Articles : 60
+### Total Articles : 61
+* https://www.youtube.com/watch?v=7SSYhuk5hmc&list=WL&index=1
+  * Tags:
+    * python
+    * global interpreter lock
+    * concurrency
+    * parallelism
 * https://www.datadoghq.com/blog/elasticsearch-performance-scaling-problems/
   * Tags:
     * elasticsearch
