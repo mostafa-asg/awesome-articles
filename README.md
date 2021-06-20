@@ -1,6 +1,9 @@
 # awsome-articles
 
-### Total Articles : 62
+### Total Articles : 63
+* https://www.cloudzero.com/blog/devops-metrics
+  * Tags:
+    * DevOps Metrics To Monitor for Organizational Success
 * https://www.youtube.com/watch?v=hnpzNAPiC0E&t=63s
   * Tags:
     * Scaling Instagram Infrastructure
