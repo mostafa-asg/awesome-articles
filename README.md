@@ -1,6 +1,9 @@
 # awsome-articles
 
-### Total Articles : 67
+### Total Articles : 68
+* https://www.innoq.com/en/blog/prometheus-counters/
+  * Tags:
+    * prometheus counter usage
 * https://dzone.com/articles/modelling-saga-as-a-state-machine
   * Tags:
     * Distributed transactions
