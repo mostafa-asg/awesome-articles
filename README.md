@@ -1,6 +1,10 @@
 # awsome-articles
 
-### Total Articles : 68
+### Total Articles : 69
+* https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518
+  * Tags:
+    * GRPC API
+    * Protobuf fieldmask
 * https://www.innoq.com/en/blog/prometheus-counters/
   * Tags:
     * prometheus counter usage
