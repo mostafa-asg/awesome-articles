@@ -1,6 +1,9 @@
 # awsome-articles
 
-### Total Articles : 69
+### Total Articles : 70
+* https://www.alexedwards.net/blog/i18n-managing-translations
+  * Tags:
+    * Go internationalization
 * https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518
   * Tags:
     * GRPC API
