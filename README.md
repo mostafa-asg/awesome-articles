@@ -1,6 +1,10 @@
 # awsome-articles
 
-### Total Articles : 70
+### Total Articles : 71
+* https://www.youtube.com/watch?v=6G22a5Iooqk
+  * Tags
+    * Redis Pub/Sub - Single Node vs Cluster
+    * Enhance throughput via custom solution
 * https://www.alexedwards.net/blog/i18n-managing-translations
   * Tags:
     * Go internationalization
