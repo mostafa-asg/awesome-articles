@@ -1,6 +1,10 @@
 # awsome-articles
 
-### Total Articles : 72
+### Total Articles : 73
+* https://medium.com/building-the-system/how-to-store-dates-and-times-in-postgresql-269bda8d6403
+  * Tags:
+    * Postgres
+    * timestamp/timestamptz
 * https://auth0.com/blog/how-to-explain-public-key-cryptography-digital-signatures-to-anyone/
   * Tgas:
     * public/private key
