@@ -1,6 +1,10 @@
 # awsome-articles
 
-### Total Articles : 73
+### Total Articles : 74
+* https://dashbird.io/blog/lambda-kinesis-trigger/
+  * Tags:
+    * lambda
+    * kinesis stream
 * https://medium.com/building-the-system/how-to-store-dates-and-times-in-postgresql-269bda8d6403
   * Tags:
     * Postgres
