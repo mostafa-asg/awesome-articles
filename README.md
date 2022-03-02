@@ -1,6 +1,10 @@
 # awsome-articles
 
-### Total Articles : 74
+### Total Articles : 75
+* https://blog.devgenius.io/learn-from-googles-data-engineers-dimensional-data-modeling-is-dead-68f6c2cb3fb0
+  * Tags:
+    * star schema
+    * datalake
 * https://dashbird.io/blog/lambda-kinesis-trigger/
   * Tags:
     * lambda
