@@ -1,6 +1,9 @@
 # awsome-articles
 
-### Total Articles : 75
+### Total Articles : 76
+* https://youtu.be/voC0ewDeltA
+  * Tags:
+    * Modern Data Infrastructure: ETL to ELT
 * https://blog.devgenius.io/learn-from-googles-data-engineers-dimensional-data-modeling-is-dead-68f6c2cb3fb0
   * Tags:
     * star schema
