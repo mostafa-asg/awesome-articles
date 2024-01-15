@@ -1,6 +1,9 @@
 # awsome-articles
 
-### Total Articles : 76
+### Total Articles : 77
+* https://drop.engineering/building-a-recommender-system-using-embeddings-de5a30e655aa
+  * Tags:
+    * Recommender System Using Embeddings 
 * https://youtu.be/voC0ewDeltA
   * Tags:
     * Modern Data Infrastructure: ETL to ELT
